@@ -1,2 +1,2 @@
 # Mental-Fitness-Tracker-AI
-"An AI-powered Mental Fitness Tracker that leverages advanced algorithms to monitor and support mental well-being, providing personalized insights and recommendations for stress management and self-care."
+"Experience a cutting-edge Regression-based Mental Fitness Tracker AI that leverages advanced algorithms to monitor and support mental well-being. This AI-powered solution utilizes regression analysis to provide personalized insights and recommendations for effective stress management and self-care. Embark on a data-driven journey to optimize your mental wellness with our innovative approach."
