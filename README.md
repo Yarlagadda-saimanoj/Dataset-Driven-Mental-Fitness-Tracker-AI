@@ -1,6 +1,6 @@
 # Mental-Fitness-Tracker-AI
 
---> The "Mental Fitness Tracker" project aimed to develop an AI-powered system to monitor and support mental well-being using regression models. The project leveraged a dataset consisting of various mental health indicators to train and evaluate two regression models: Linear Regression and Random Forest Regressor.
+--> The "[Mental Fitness Tracker](https://www.kaggle.com/code/yarlagaddasaimanoj/ai-mental-health-fitness-tracker)" project aimed to develop an AI-powered system to monitor and support mental well-being using regression models. The project leveraged a dataset consisting of various mental health indicators to train and evaluate two regression models: Linear Regression and Random Forest Regressor.
 
 --> Initially, the project involved data preprocessing tasks such as loading the dataset using Pandas, handling missing values, and performing label encoding on categorical variables. Exploratory data analysis was conducted using visualizations such as heatmaps, pair plots, and line plots to gain insights into the relationships between different variables and mental fitness.
 
