@@ -17,3 +17,9 @@
 *  The dataset was split into training and testing sets, and both Linear Regression and Random Forest Regressor models were trained and evaluated.
 *  The Random Forest Regressor model outperformed the Linear Regression model, achieving a higher score of 0.99 compared to 0.76.
 *  The project demonstrated the potential of using regression models for accurate mental fitness tracking and opens avenues for further research in the field of mental health using artificial intelligence.
+
+## Languages used: [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+## Frameworks and Dependencies: ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+
+
+[![PyPi license](https://badgen.net/pypi/license/pip/)]([https://pypi.org/project/pip/](https://github.com/Yarlagadda-saimanoj/Dataset-Driven-Mental-Fitness-Tracker-AI/blob/main/LICENSE)https://github.com/Yarlagadda-saimanoj/Dataset-Driven-Mental-Fitness-Tracker-AI/blob/main/LICENSE)
