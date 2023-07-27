@@ -25,5 +25,5 @@
 ## Languages used: [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ## Frameworks and Dependencies: ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 
-
+## License:
 [![PyPi license](https://badgen.net/pypi/license/pip/)]([https://pypi.org/project/pip/](https://github.com/Yarlagadda-saimanoj/Dataset-Driven-Mental-Fitness-Tracker-AI/blob/main/LICENSE)https://github.com/Yarlagadda-saimanoj/Dataset-Driven-Mental-Fitness-Tracker-AI/blob/main/LICENSE)
